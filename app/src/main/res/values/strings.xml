@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Picker_App</string>
+    <string name="select_the_date">Select The Date</string>
+    <string name="todo">TODO</string>
+</resources>
